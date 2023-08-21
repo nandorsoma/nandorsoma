@@ -1,8 +1,9 @@
 ### Hi there, I'm Nandor 👋
 
 - 💼 Senior Software Engineer @ [Cloudera](https://www.cloudera.com)
-- 🌱 Huge fan of open-source
-- 🔭 My main focus is on Apache NiFi
+- 🚀 Apache NiFi Committer & PMC Member
+- 🌱 Loves open-source
+- 🔭 My main focuses are Data Streaming and Big Data
 - 📫 How to reach me: nsabonyi@fosstodon.org
 
 [![@nsabonyi's Holopin board](https://holopin.me/nsabonyi)](https://holopin.io/@nsabonyi)
