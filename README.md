@@ -4,7 +4,7 @@
 - 🚀 Apache NiFi Committer & PMC Member
 - 🌱 Loves open-source
 - 🔭 My main focuses are Data Streaming and Big Data
-- 📫 How to reach me: nsabonyi@fosstodon.org
+- 📫 How to reach me: nsabonyi@icloud.com
 
 [![@nsabonyi's Holopin board](https://holopin.me/nsabonyi)](https://holopin.io/@nsabonyi)
 <!--
