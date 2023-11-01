@@ -1,6 +1,6 @@
 ### Hi there, I'm Nandor 👋
 
-- 💼 Senior Software Engineer @ [Cloudera](https://www.cloudera.com)
+- 💼 Software Engineer @ [Ververica](https://www.ververica.com/)
 - 🚀 Apache NiFi Committer & PMC Member
 - 🌱 Loves open-source
 - 🔭 My main focuses are Data Streaming and Big Data
