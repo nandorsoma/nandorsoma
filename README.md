@@ -1,6 +1,6 @@
 ### Hi there, I'm Nandor 👋
 
-- 💼 Software Engineer @ [Ververica](https://www.ververica.com/)
+- 💼 Founding Engineer @ [DataSQRL](https://www.datasqrl.com)
 - 🚀 Apache NiFi Committer & PMC Member
 - 🌱 Loves open-source
 - 🔭 My main focuses are Data Streaming and Big Data
