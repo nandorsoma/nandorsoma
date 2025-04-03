@@ -1,6 +1,6 @@
 ### Hi there, I'm Nandor 👋
 
-- 💼 Senior Software Engineer @ [HiveMQ](https://www.hivemq.com)
+- 💼 Senior Software Engineer @ [HiveMQ](https://www.hivemq.com) 🐝
 - 🚀 Apache NiFi Committer & PMC Member
 - 🌱 Loves open-source
 - 🔭 My main focuses are Data Streaming and Big Data
