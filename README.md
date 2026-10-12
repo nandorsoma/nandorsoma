@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm a Big Data & Streaming Engineer</h1>
 
 <p align="center">
-  <em>Turning data into insight — one stream at a time.</em>
+  <em>Turning data into insight</em>
 </p>
 
 ---
