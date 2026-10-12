@@ -1,44 +1,45 @@
-<h1 align="center">👋 Hey there, I'm a Big Data & Streaming Engineer</h1>
 
-<p align="center">
-  <em>Turning data into insight</em>
-</p>
+# 👋 Hey, I'm Nándor
 
----
+**Software Engineer · Distributed Systems · Data Streaming · Open Source**
 
-### 🚀 About Me
+I like building systems, figuring out how they work, and understanding what happens when things go wrong.
 
-I'm a software engineer with a lifelong passion for computer science — fortunate enough to turn my hobby into a career.  
-For me, work feels like going to the playground as a kid — a place full of exploration, learning, and fun.
+I've been interested in computer science for as long as I can remember, and I'm lucky enough to have turned that interest into a career. The part I enjoy most is the engineering itself: exploring unfamiliar problems, understanding systems in depth, and building things that work reliably in the real world.
 
-Currently, I’m working at **HiveMQ**, where I help build scalable, reliable systems for **data streaming** and **IoT messaging**.  
-I’m also a **PMC member of Apache NiFi**, working on open-source solutions for data movement and flow orchestration.
+I'm currently a Senior Software Engineer at **HiveMQ**, working on messaging and data streaming infrastructure. I'm also a **PMC member of Apache NiFi**, where I contribute to the open-source ecosystem around data movement and flow orchestration.
 
-My main interests lie in **real-time data streaming**, **data lakes**, and the **evolution of modern data architectures** — from ingestion to insight.
+Over the years, I've worked across different parts of the data infrastructure stack, from data ingestion and integration to stream processing and distributed systems. I'm particularly interested in how these systems fit together, where their trade-offs lie, and how to make them more reliable and useful.
+
+I still approach engineering much like I did as a kid: there's always something new to figure out, and that's half the fun.
 
 ---
 
-### 🛠️ Tech & Tools I Enjoy Working With
+### 🛠️ Technologies & Projects
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,linux,aws,gcp,azure,docker,kubernetes,git,github,maven,gradle" /><br/>
   <img src="https://img.shields.io/badge/Apache%20NiFi-003A70?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-1B4F72?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-FFCC00?style=for-the-badge&logo=apache&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-1B4F72?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Debezium-FF4A00?style=for-the-badge&logo=debezium&logoColor=white" />
 </p>
 
+My interests include:
+
+- **Distributed systems** — reliability, consistency, failure handling, and the trade-offs behind system design.
+- **Real-time data** — messaging, stream processing, CDC, and data integration.
+- **Open source** — contributing to projects that other engineers build upon.
+- **Data infrastructure** — connecting the pieces from ingestion to processing and storage.
+
 ---
 
-### 🌍 Experience Snapshot
+### 🌍 Around the Ecosystem
 
-- 🧠 **PMC Member, Apache NiFi** — shaping the future of data flow automation  
-- ☁️ **Engineer at HiveMQ** — building resilient data streaming and IoT infrastructures  
-- 🔄 Experienced across **Kafka, Flink, Iceberg, and distributed data systems**  
-- 🧩 Bridging real-time and batch worlds with modern **data lakehouse architectures**  
-- 🧰 Deep experience with **Java**, **DevOps**, and **cloud-native** data processing pipelines  
+- **HiveMQ** — Senior Software Engineer, working on messaging and streaming infrastructure.
+- **Apache NiFi** — PMC member and open-source contributor.
+- **Data engineering** — Hands-on experience across Kafka, Flink, Spark, and the broader distributed data ecosystem.
 
 ---
 
@@ -49,5 +50,5 @@ My main interests lie in **real-time data streaming**, **data lakes**, and the *
 </p>
 
 <p align="center">
-  💬 *“Stay curious, keep building, never stop exploring.”*
+  <em>Still curious. Still building. Still having fun.</em>
 </p>
